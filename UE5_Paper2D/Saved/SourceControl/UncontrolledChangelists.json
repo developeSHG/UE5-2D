@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Maps/DevMap.umap",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/BG.uasset",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/BG.uasset",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/BG_Sprite.uasset"
+			]
+		}
+	]
+}
