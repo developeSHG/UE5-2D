@@ -124,7 +124,8 @@
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up_attack.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up_idle.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up_move.uasset",
-				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Blueprints/BP_Knight.uasset"
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Blueprints/BP_Knight.uasset",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Blueprints/EDirection.uasset"
 			]
 		}
 	]
