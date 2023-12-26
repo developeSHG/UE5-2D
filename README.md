@@ -5,7 +5,7 @@
 
 <hr size="5">
 
-<br><h3>Chapter 01. 기초</h3>
+<h3>Chapter 01. 기초</h3>
 
 ![2023-12-26 15;50;09](https://github.com/developeSHG/UE5-Paper2D/assets/79896868/1fb493ee-b06d-4286-8d39-ac91ff56cd27)
 <br><b>Blog</b> : https://song-ift.tistory.com/category/UE5%20%3A%20Paper%202D%20%28Blueprint%29/%EA%B8%B0%EC%B4%88
