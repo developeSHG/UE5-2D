@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Maps/DevMap.umap",
-				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/BG.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/BG.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/BG_Sprite.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/down-attack/down_attack_01.uasset",
@@ -58,14 +57,6 @@
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up-move/up_move_05.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up-move/up_move_06.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/down-attack/down_attack.uasset",
-				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/down-idle/down_idle.uasset",
-				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/down-move/down_move.uasset",
-				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/side-attack/side_attack.uasset",
-				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/side-idle/side_idle.uasset",
-				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/side-move/side_move.uasset",
-				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up-attack/up_attack.uasset",
-				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up-idle/up_idle.uasset",
-				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up-move/up_move.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up-move/up_move_01_Sprite.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up-move/up_move_02_Sprite.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up-move/up_move_03_Sprite.uasset",
@@ -114,7 +105,6 @@
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up-attack/up_attack_08_Sprite.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up-idle/up_idle_01_Sprite.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up-idle/up_idle_02_Sprite.uasset",
-				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/down_attack.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/down_attack.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/down_idle.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/down_move.uasset",
@@ -125,7 +115,18 @@
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up_idle.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up_move.uasset",
 				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Blueprints/BP_Knight.uasset",
-				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Blueprints/EDirection.uasset"
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Blueprints/EDirection.uasset",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Blueprints/EState.uasset",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/BG.uasset",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/down-idle/down_idle.uasset",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/down-move/down_move.uasset",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/side-attack/side_attack.uasset",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/side-idle/side_idle.uasset",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/side-move/side_move.uasset",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up-attack/up_attack.uasset",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up-idle/up_idle.uasset",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/Knight/up-move/up_move.uasset",
+				"D:/rookiss/UE5-Paper2D/UE5_Paper2D/Content/Sprites/down_attack.uasset"
 			]
 		}
 	]
