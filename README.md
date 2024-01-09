@@ -19,20 +19,20 @@
 <br><h3>Chapter 03. 이동과 전투</h3>
 ![2024-01-08195020-ezgif com-cut](https://github.com/developeSHG/UE5-Paper2D/assets/79896868/4fabab94-4877-4850-9de1-91a88f9a120e)
 <br><b>Blog</b> : https://song-ift.tistory.com/category/UE5%20%3A%20Paper%202D%20%28Blueprint%29/%EC%9D%B4%EB%8F%99%EA%B3%BC%20%EC%A0%84%ED%88%AC
-<br><b>History</b> : https://song-ift.tistory.com/category/UE5%20%3A%20Paper%202D%20%28Blueprint%29/%EC%9D%B4%EB%8F%99%EA%B3%BC%20%EC%A0%84%ED%88%AC
+<br><b>History</b> : https://github.com/developeSHG/UE5-Paper2D/commits/03.%EC%9D%B4%EB%8F%99%EA%B3%BC%EC%A0%84%ED%88%AC
 
 <br><h3>Chapter 04. 인공지능과 컨트롤러</h3>
-<br><b>Blog</b> : 
-<br><b>History</b> : https://song-ift.tistory.com/category/UE5%20%3A%20Paper%202D%20%28Blueprint%29/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC
+<br><b>Blog</b> : https://song-ift.tistory.com/category/UE5%20%3A%20Paper%202D%20%28Blueprint%29/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC
+<br><b>History</b> : 
 
 <br><h3>Chapter 05. 타일맵</h3>
-<br><b>Blog</b> : 
-<br><b>History</b> : https://song-ift.tistory.com/category/UE5%20%3A%20Paper%202D%20%28Blueprint%29/%ED%83%80%EC%9D%BC%EB%A7%B5
+<br><b>Blog</b> : https://song-ift.tistory.com/category/UE5%20%3A%20Paper%202D%20%28Blueprint%29/%ED%83%80%EC%9D%BC%EB%A7%B5
+<br><b>History</b> : 
 
 <br><h3>Chapter 06. 게임 컨텐츠</h3>
-<br><b>Blog</b> : 
-<br><b>History</b> : https://song-ift.tistory.com/category/UE5%20%3A%20Paper%202D%20%28Blueprint%29/%EA%B2%8C%EC%9E%84%20%EC%BB%A8%ED%85%90%EC%B8%A0
+<br><b>Blog</b> : https://song-ift.tistory.com/category/UE5%20%3A%20Paper%202D%20%28Blueprint%29/%EA%B2%8C%EC%9E%84%20%EC%BB%A8%ED%85%90%EC%B8%A0
+<br><b>History</b> : 
 
 <br><h3>Chapter 07. 구조와 설계</h3>
-<br><b>Blog</b> : 
-<br><b>History</b> : https://song-ift.tistory.com/category/UE5%20%3A%20Paper%202D%20%28Blueprint%29/%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%84%A4%EA%B3%84
+<br><b>Blog</b> : https://song-ift.tistory.com/category/UE5%20%3A%20Paper%202D%20%28Blueprint%29/%EA%B5%AC%EC%A1%B0%EC%99%80%20%EC%84%A4%EA%B3%84
+<br><b>History</b> : 
