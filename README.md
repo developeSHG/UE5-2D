@@ -22,8 +22,9 @@
 <br><b>History</b> : https://github.com/developeSHG/UE5-Paper2D/commits/03.%EC%9D%B4%EB%8F%99%EA%B3%BC%EC%A0%84%ED%88%AC
 
 <br><h3>Chapter 04. 인공지능과 컨트롤러</h3>
+![2024-01-09 18;21;25](https://github.com/developeSHG/UE5-Paper2D/assets/79896868/59b57d0e-9839-4c8b-9401-ac389e0855b4)
 <br><b>Blog</b> : https://song-ift.tistory.com/category/UE5%20%3A%20Paper%202D%20%28Blueprint%29/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC
-<br><b>History</b> : 
+<br><b>History</b> : https://github.com/developeSHG/UE5-Paper2D/commits/04.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC
 
 <br><h3>Chapter 05. 타일맵</h3>
 <br><b>Blog</b> : https://song-ift.tistory.com/category/UE5%20%3A%20Paper%202D%20%28Blueprint%29/%ED%83%80%EC%9D%BC%EB%A7%B5
