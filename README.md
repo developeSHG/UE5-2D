@@ -1,5 +1,5 @@
-# UE5-Paper2D
-<h3>Unreal Engine 5 - Paper2D</h3>
+# UE5-Paper2D_BP
+<h3>Unreal Engine 5 - Paper2D (Blueprint)</h3>
 
 <b>Category</b> : https://song-ift.tistory.com/category/UE5%20%3A%20Paper%202D%20%28Blueprint%29
 
